@@ -17,7 +17,7 @@ Reactive instead of preventive care
 
 🎯 Objective
 
-To build a Power BI dashboard that helps:
+To build a  dashboard that helps:
 Identify high-risk asthma patients
 Analyze ER visit patterns
 Highlight key contributing factors such as medication adherence, activity level, and environmental exposure
@@ -37,3 +37,6 @@ Patients with low medication adherence show higher ER visit frequency
 Poor asthma control is directly linked to increased ER usage
 Sedentary lifestyle groups have more ER visits compared to active patients
 Certain demographic and lifestyle segments require prioritized care
+
+Author: Yasmeen Rafique
+
