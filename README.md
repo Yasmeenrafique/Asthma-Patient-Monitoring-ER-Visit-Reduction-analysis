@@ -1,11 +1,12 @@
 🏥 Asthma Patient Monitoring & ER Visit Reduction Dashboard
+
 📌 Project Overview
 
 This project focuses on solving a key healthcare challenge: identifying asthma patients at high risk of frequent emergency room (ER) visits.
 The dashboard provides a clear, data-driven view of patient risk factors to support early intervention and preventive care.
-❗ Business Problem
 
-Healthcare providers lack an easy way to:
+
+❗ Business Problem
 
 Monitor asthma patient outcomes
 Identify patients with poor asthma control
